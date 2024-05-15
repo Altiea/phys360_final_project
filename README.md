@@ -8,7 +8,8 @@ In general this is a cute and simple experiement you can do in their spare time 
 ## Resources
 
 * Smith, Ryan P., and Eric H. Matlis. “Gravity-Driven Fluid Oscillations in a Drinking Straw.” AIP Publishing, AIP Publishing, 1 June 2019, pubs.aip.org/aapt/ajp/article/87/6/433/1057277/Gravity-driven-fluid-oscillations-in-a-drinking.
-* Straws, Steely. “Choosing the Right Length and Width for Your Reusable Straws.” Steelys® Straws, 20 Feb. 2019, www.steelystraws.com/choosing-the-right-length-and-width-for-your-reusable-straws/. 
+* Straws, Steely. “Choosing the Right Length and Width for Your Reusable Straws.” Steelys® Straws, 20 Feb. 2019, www.steelystraws.com/choosing-the-right-length-and-width-for-your-reusable-straws/.
+* Lorenceau, Élise, et al. “Gravitational Oscillations of a Liquid Column in a Pipe.” AIP Publishing, AIP Publishing, 1 June 2002, pubs.aip.org/aip/pof/article/14/6/1985/254756/Gravitational-oscillations-of-a-liquid-column-in-a. 
 
 ## Questions
 
